@@ -1,4 +1,7 @@
-## Hi there 👋
+name: Pratham Srivastava
+branch: CSE (core)
+year : 1st 
+i want to learn multiple lannguages,frontend and backend.
 
 <!--
 **prathamsrivastavaa/prathamsrivastavaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
