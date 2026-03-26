@@ -1,8 +1,8 @@
-TASK 2
-name: Pratham Srivastava
- branch: CSE (core)
- year : 1st 
- i want to learn multiple lannguages,frontend and backend.
+TASK 2  
+name: Pratham Srivastava  
+branch: CSE (core)
+year : 1st 
+I want to learn multiple lannguages,frontend and backend.
 
 <!--
 **prathamsrivastavaa/prathamsrivastavaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
